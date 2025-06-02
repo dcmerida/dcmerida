@@ -1,16 +1,18 @@
 # 👋 Hi, I'm Dani
 
-I'm **Daniel Mérida Cordero**, a passionate and curious **Junior Software Developer** currently working at [Kyndryl](https://www.kyndryl.com). I recently graduated from [ITIC BCN](https://agora.xtec.cat/iticbcn/), where I completed a **Higher National Diploma in Multiplatform Application Development (DAM)**, gaining the skills and knowledge necessary to build mobile, web and backend applications.
+I'm **Dani Mérida**, a passionate and curious **Junior Software Developer** currently working at [Kyndryl](https://www.kyndryl.com). I recently graduated from 
+<a href="https://agora.xtec.cat/iticbcn/" target="_blank"><img src="https://agora.xtec.cat/iticbcn/wp-content/uploads/usu2389/2023/06/Imagotipo-1.png" width="20" style="vertical-align: middle;" /></a> [ITIC BCN](https://agora.xtec.cat/iticbcn/), where I completed a **Higher National Diploma in Multiplatform Application Development (DAM)**, gaining the skills and knowledge necessary to build mobile, web and backend applications.
 
 ---
 
 ## 👨‍💻 About me
 
-I enjoy designing and developing software solutions that combine functionality and simplicity. My background includes building Android apps in Kotlin, developing and deploying RESTful APIs, working with relational and non-relational databases, and recently, diving into cloud and data processing technologies.
+I'm a junior software developer focused on building mobile and backend apps.  
+I enjoy creating clean, functional solutions using modern tools and technologies.  
 
-During my internship at [Kyndryl](https://www.kyndryl.com), I worked as a **Data Scientist**, and I’ve had the opportunity to stay on the team as a full-time developer. This experience has allowed me to explore the world of cloud computing, data ingestion, orchestration pipelines, and artificial intelligence applied in real environments.
+I currently work at [Kyndryl](https://www.kyndryl.com), where I started as a data science intern and now contribute to cloud and data projects as a full-time developer.  
 
-My current focus is to deepen my skills in full-stack development, cloud-native architectures, and AI integration, while continuing to grow as a developer through hands-on experience and continuous learning.
+Right now, I'm learning more about full-stack development, cloud architecture, and AI.
 
 ---
 
@@ -75,4 +77,4 @@ You can reach out to me here:
 
 ---
 
-Thanks for checking out my profile!
+Thanks for checking out my profile! Let’s connect, share ideas, and build awesome things together in the world of tech.
